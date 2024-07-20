@@ -1,7 +1,5 @@
 # 🎓 College Management System
-
-![](https://github.com/Anish-Paul-01/College_Management_System/blob/main/school_management_system_poster.png)
-
+![]()
 The **College Management System** is a C application designed to streamline and manage student data within educational institutions efficiently. This system offers a range of functionalities to handle various administrative tasks, ensuring that student records are maintained accurately and can be accessed quickly.
 
 ## 🚀 Features
